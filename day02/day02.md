@@ -7,7 +7,7 @@ JavaScript has three kinds of variable declarations:
 - `let` : declares a block-scoped, local variable, optionally initialising it to a value
 - `const` : declares a block-scoped, read-only named constant (cannot change value)
 
-we will mostly be using `let` and `const` in this course
+I will mostly be using `let` and `const` in this course
 
 NOTE: to easily understand `let` and `const`, remember that `const` value cannot be changed (hence the name constant) once initialised.
 
