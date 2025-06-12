@@ -11,6 +11,7 @@ Learn JavaScript in 30 days with this structured roadmap. Each day includes:
     🧠 Challenge
 
 🗓️ Week 1: JavaScript Fundamentals
+
 Day 1: Introduction to JavaScript
 
     🎯 Objective: Understand JavaScript’s role in the browser.
