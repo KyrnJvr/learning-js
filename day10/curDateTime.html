@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Current DateTime</title>
+</head> 
+<body>
+    <h1 id="dateTime"></h1>
+    <script>
+
+        // challenge 18: Use `alert` to display the current date and time.
+
+        let dateTimeField = document.getElementById('dateTime');
+
+        let now = new Date();
+
+
+        dateTimeField.innerText = `Current Date and Time: ${now}`;
+    </script>
+</body>
+</html>
